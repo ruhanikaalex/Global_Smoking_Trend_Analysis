@@ -4,6 +4,8 @@
 
 
 ### **Project Title: Global Smoking Trend Analysis and Cluster Identification**
+<img width="938" height="422" alt="Dashboard" src="https://github.com/user-attachments/assets/e6705e6f-35e8-4d07-8a79-157d2ae1cbc0" />
+# Dashboard
 
 ### **1. Introduction**
 
